@@ -1,3 +1,6 @@
+#Projeto individual 1 
+#Lorhan Costa
+
 import pandas as pd
 
 
